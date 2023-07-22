@@ -1,0 +1,31 @@
+h1 {
+  color: black;
+  margin-top: 10px;
+}
+h2 {
+  font-size: 50px;
+}
+.emoji {
+  display: block;
+  font-size: 30px;
+  padding: 0%;
+}
+form {
+  margin-top: 25px;
+}
+.degrees {
+  font-size: medium;
+  display: inline;
+  top: 0;
+  position: relative;
+  color: grey;
+}
+.conditions {
+  color: grey;
+  font-size: 15px;
+  display: inline;
+}
+.weekday {
+  display: block;
+  margin-bottom: 0%;
+}
